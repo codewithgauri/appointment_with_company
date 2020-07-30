@@ -13,7 +13,7 @@ Use step by step to avoid error.
 Get this project in your PC
 clone this project in your wroking directory or wherever you want using
 
-git clone https://github.com/gauravpandey22
+git clone https://github.com/gauravpandey22/appointment_with_company.git
 
 
 
